@@ -1,2 +1,2 @@
 # ajax
-pair programming with Fina20
+pair programming with danis
